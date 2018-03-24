@@ -1,0 +1,10 @@
+Guangzhou Shanghai 1
+Guangzhou ShenZhen 5
+ShenZhen LOS 2
+ShenZhen Shanghai 5
+LOS Guangzhou 4
+Guangzhou NewYork 6
+NewYork LOS 6
+NewYork London 3
+Guangzhou London 5
+London Shanghai 6
