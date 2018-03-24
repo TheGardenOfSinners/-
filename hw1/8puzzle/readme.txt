@@ -1,1 +1,1 @@
-九宫格问题的启发式算法。
+A heuristic algorithm for the 8-puzzle.
